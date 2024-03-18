@@ -2,5 +2,5 @@
 Source Code
 ## Render Code
 ```bash
-pip
+manim video.py Pith -qk
 ```
